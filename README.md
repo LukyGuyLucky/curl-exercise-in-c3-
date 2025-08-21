@@ -1,4 +1,5 @@
 # curl-exercise-in-c3
+code snippets for practice and learning purpose
 
 curl.c3i is from:
 https://github.com/c3lang/vendor/tree/main/libraries/curl.c3l
