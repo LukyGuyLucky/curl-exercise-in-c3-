@@ -2,7 +2,7 @@
 import easycurl;
 import std;
 
-const WEBPAGE="http://www.bing.com";
+const WEBPAGE="http://cn.bing.com/";
 
 fn int main(String[] args)
 {
@@ -14,4 +14,5 @@ fn int main(String[] args)
     return 0;
 
 }
+
 
